@@ -1,0 +1,77 @@
+{
+  "version": 2,
+  "products": [
+    {
+      "id": "hp-omen-16-an0015tx-amazon",
+      "name": "HP OMEN 16 an0015TX (Amazon)",
+      "site": "amazon",
+      "url": "https://www.amazon.in/dp/B0FM3S8R19",
+      "enabled": true,
+      "target_price": 155000,
+      "match_keywords": ["Core Ultra 7", "RTX 5060"],
+      "specs": {
+        "cpu": "Core Ultra 7 255H",
+        "gpu": "RTX 5060 8GB",
+        "ram": "24GB DDR5",
+        "display": "16in 2K 165Hz"
+      },
+      "last_price": 179857,
+      "lowest_seen": {
+        "price": 179857,
+        "at": "2026-09-22T00:00:00Z"
+      },
+      "last_checked_at": null,
+      "in_stock": true,
+      "consecutive_failures": 0,
+      "last_alert": null,
+      "history": []
+    },
+    {
+      "id": "hp-omen-16-am0238tx-amazon",
+      "name": "HP OMEN 16 am0238TX (Amazon)",
+      "site": "amazon",
+      "url": "https://www.amazon.in/dp/B0G3V4R8LK",
+      "enabled": true,
+      "target_price": 155000,
+      "match_keywords": ["Core Ultra 7", "RTX 5060"],
+      "specs": {
+        "cpu": "Core Ultra 7 255H",
+        "gpu": "RTX 5060 8GB",
+        "ram": "24GB DDR5",
+        "display": "16in 2K 165Hz"
+      },
+      "last_price": null,
+      "lowest_seen": null,
+      "last_checked_at": null,
+      "in_stock": null,
+      "consecutive_failures": 0,
+      "last_alert": null,
+      "history": []
+    },
+    {
+      "id": "hp-omen-16-an0015tx-flipkart",
+      "name": "HP OMEN Slim 16-an0015TX (Flipkart)",
+      "site": "flipkart",
+      "url": "https://www.flipkart.com/hp-omen-slim-intel-core-ultra-7-255h-24-gb-1-tb-ssd-windows-11-home-8-gb-graphics-nvidia-geforce-rtx-5060-16-an0015tx-gaming-laptop/p/itmabdfb2dd5fa1e",
+      "enabled": true,
+      "target_price": 155000,
+      "match_keywords": ["Ultra 7", "RTX 5060"],
+      "specs": {
+        "cpu": "Core Ultra 7 255H",
+        "gpu": "RTX 5060 8GB",
+        "ram": "24GB DDR5",
+        "display": "16in 2K 165Hz"
+      },
+      "last_price": 184990,
+      "lowest_seen": {
+        "price": 184990,
+        "at": "2026-09-22T00:00:00Z"
+      },
+      "last_checked_at": null,
+      "in_stock": true,
+      "consecutive_failures": 0,
+      "last_alert": null,
+      "history": []
+    }
+  ]
+}
