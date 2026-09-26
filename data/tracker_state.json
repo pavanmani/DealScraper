@@ -18,16 +18,26 @@
         "ram": "24GB DDR5",
         "display": "16in 2K 165Hz"
       },
-      "last_price": 179857,
+      "last_price": 166990,
       "lowest_seen": {
-        "price": 179857,
-        "at": "2026-09-22T00:00:00Z"
+        "price": 166990,
+        "at": "2026-09-26T08:01:13Z"
       },
-      "last_checked_at": "2026-09-25T18:58:17Z",
-      "in_stock": false,
+      "last_checked_at": "2026-09-26T08:01:13Z",
+      "in_stock": null,
       "consecutive_failures": 0,
-      "last_alert": null,
-      "history": []
+      "last_alert": {
+        "price": 166990,
+        "reason": "price_drop",
+        "at": "2026-09-26T08:01:13Z"
+      },
+      "history": [
+        {
+          "price": 166990,
+          "in_stock": null,
+          "at": "2026-09-26T08:01:13Z"
+        }
+      ]
     },
     {
       "id": "hp-omen-16-am0238tx-amazon",
@@ -51,7 +61,7 @@
         "price": 179857,
         "at": "2026-09-23T07:59:31Z"
       },
-      "last_checked_at": "2026-09-25T18:58:23Z",
+      "last_checked_at": "2026-09-26T08:01:22Z",
       "in_stock": true,
       "consecutive_failures": 0,
       "last_alert": null,
@@ -70,6 +80,11 @@
           "price": 179857,
           "in_stock": true,
           "at": "2026-09-25T18:58:23Z"
+        },
+        {
+          "price": 179857,
+          "in_stock": true,
+          "at": "2026-09-26T08:01:22Z"
         }
       ]
     },
@@ -90,18 +105,18 @@
         "ram": "24GB DDR5",
         "display": "16in 2K 165Hz"
       },
-      "last_price": 184990,
+      "last_price": 174477,
       "lowest_seen": {
-        "price": 177999,
-        "at": "2026-09-23T07:59:39Z"
+        "price": 174477,
+        "at": "2026-09-26T08:01:29Z"
       },
-      "last_checked_at": "2026-09-25T18:58:29Z",
+      "last_checked_at": "2026-09-26T08:01:29Z",
       "in_stock": true,
       "consecutive_failures": 0,
       "last_alert": {
-        "price": 177999,
+        "price": 174477,
         "reason": "price_drop",
-        "at": "2026-09-23T07:59:39Z"
+        "at": "2026-09-26T08:01:29Z"
       },
       "history": [
         {
@@ -113,6 +128,11 @@
           "price": 184990,
           "in_stock": true,
           "at": "2026-09-25T18:58:29Z"
+        },
+        {
+          "price": 174477,
+          "in_stock": true,
+          "at": "2026-09-26T08:01:29Z"
         }
       ]
     }
