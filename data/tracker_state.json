@@ -23,7 +23,7 @@
         "price": 166990,
         "at": "2026-09-26T08:01:13Z"
       },
-      "last_checked_at": "2026-10-16T18:28:09Z",
+      "last_checked_at": "2026-10-17T07:13:40Z",
       "in_stock": false,
       "consecutive_failures": 0,
       "last_alert": {
@@ -71,7 +71,7 @@
         "price": 174990,
         "at": "2026-10-07T20:13:59Z"
       },
-      "last_checked_at": "2026-10-16T18:28:18Z",
+      "last_checked_at": "2026-10-17T07:13:46Z",
       "in_stock": true,
       "consecutive_failures": 0,
       "last_alert": null,
@@ -250,6 +250,11 @@
           "price": 195990,
           "in_stock": true,
           "at": "2026-10-16T18:28:18Z"
+        },
+        {
+          "price": 195990,
+          "in_stock": true,
+          "at": "2026-10-17T07:13:46Z"
         }
       ]
     },
@@ -275,7 +280,7 @@
         "price": 125890,
         "at": "2026-10-08T20:15:55Z"
       },
-      "last_checked_at": "2026-10-16T18:28:26Z",
+      "last_checked_at": "2026-10-17T07:13:51Z",
       "in_stock": false,
       "consecutive_failures": 0,
       "last_alert": {
@@ -493,6 +498,11 @@
           "price": 125890,
           "in_stock": false,
           "at": "2026-10-16T18:28:26Z"
+        },
+        {
+          "price": 125890,
+          "in_stock": false,
+          "at": "2026-10-17T07:13:51Z"
         }
       ]
     }
