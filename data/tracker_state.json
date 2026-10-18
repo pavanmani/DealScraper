@@ -23,7 +23,7 @@
         "price": 166990,
         "at": "2026-09-26T08:01:13Z"
       },
-      "last_checked_at": "2026-10-18T07:26:47Z",
+      "last_checked_at": "2026-10-18T17:36:38Z",
       "in_stock": false,
       "consecutive_failures": 0,
       "last_alert": {
@@ -71,7 +71,7 @@
         "price": 174990,
         "at": "2026-10-07T20:13:59Z"
       },
-      "last_checked_at": "2026-10-18T07:26:55Z",
+      "last_checked_at": "2026-10-18T17:36:44Z",
       "in_stock": true,
       "consecutive_failures": 0,
       "last_alert": null,
@@ -265,6 +265,11 @@
           "price": 195990,
           "in_stock": true,
           "at": "2026-10-18T07:26:55Z"
+        },
+        {
+          "price": 195990,
+          "in_stock": true,
+          "at": "2026-10-18T17:36:44Z"
         }
       ]
     },
@@ -285,13 +290,13 @@
         "ram": "24GB DDR5",
         "display": "16in 2K 165Hz"
       },
-      "last_price": 125890,
+      "last_price": 198900,
       "lowest_seen": {
         "price": 125890,
         "at": "2026-10-08T20:15:55Z"
       },
-      "last_checked_at": "2026-10-18T07:27:00Z",
-      "in_stock": false,
+      "last_checked_at": "2026-10-18T17:36:51Z",
+      "in_stock": true,
       "consecutive_failures": 0,
       "last_alert": {
         "price": 174477,
@@ -523,6 +528,11 @@
           "price": 125890,
           "in_stock": false,
           "at": "2026-10-18T07:27:00Z"
+        },
+        {
+          "price": 198900,
+          "in_stock": true,
+          "at": "2026-10-18T17:36:51Z"
         }
       ]
     }
