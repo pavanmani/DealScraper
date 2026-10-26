@@ -23,7 +23,7 @@
         "price": 166990,
         "at": "2026-09-26T08:01:13Z"
       },
-      "last_checked_at": "2026-10-26T08:09:46Z",
+      "last_checked_at": "2026-10-26T20:11:55Z",
       "in_stock": false,
       "consecutive_failures": 0,
       "last_alert": {
@@ -66,18 +66,18 @@
         "ram": "24GB DDR5",
         "display": "16in 2K 165Hz"
       },
-      "last_price": 179857,
+      "last_price": 169990,
       "lowest_seen": {
-        "price": 174990,
-        "at": "2026-10-07T20:13:59Z"
+        "price": 169990,
+        "at": "2026-10-26T20:12:02Z"
       },
-      "last_checked_at": "2026-10-26T08:09:55Z",
-      "in_stock": false,
+      "last_checked_at": "2026-10-26T20:12:02Z",
+      "in_stock": true,
       "consecutive_failures": 0,
       "last_alert": {
-        "price": 179857,
+        "price": 169990,
         "reason": "price_drop",
-        "at": "2026-10-19T20:16:01Z"
+        "at": "2026-10-26T20:12:02Z"
       },
       "history": [
         {
@@ -304,6 +304,11 @@
           "price": 179857,
           "in_stock": true,
           "at": "2026-10-22T18:54:11Z"
+        },
+        {
+          "price": 169990,
+          "in_stock": true,
+          "at": "2026-10-26T20:12:02Z"
         }
       ]
     },
@@ -329,7 +334,7 @@
         "price": 125890,
         "at": "2026-10-08T20:15:55Z"
       },
-      "last_checked_at": "2026-10-26T08:10:03Z",
+      "last_checked_at": "2026-10-26T20:12:10Z",
       "in_stock": true,
       "consecutive_failures": 0,
       "last_alert": {
@@ -338,11 +343,6 @@
         "at": "2026-10-21T19:00:04Z"
       },
       "history": [
-        {
-          "price": 184990,
-          "in_stock": true,
-          "at": "2026-09-25T18:58:29Z"
-        },
         {
           "price": 174477,
           "in_stock": true,
@@ -637,6 +637,11 @@
           "price": 184433,
           "in_stock": true,
           "at": "2026-10-26T08:10:03Z"
+        },
+        {
+          "price": 184433,
+          "in_stock": true,
+          "at": "2026-10-26T20:12:10Z"
         }
       ]
     }
